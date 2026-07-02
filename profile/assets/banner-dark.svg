@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Technical Arts MTY — Open Engineering and Research">
+  <g stroke="#3B82F6" stroke-width="6" stroke-linecap="round">
+    <line x1="118" y1="112" x2="196" y2="150"/>
+    <line x1="118" y1="188" x2="196" y2="150"/>
+    <line x1="118" y1="112" x2="118" y2="188"/>
+  </g>
+  <g fill="#3B82F6">
+    <circle cx="118" cy="112" r="15"/>
+    <circle cx="196" cy="150" r="15"/>
+    <circle cx="118" cy="188" r="15"/>
+  </g>
+  <text x="264" y="164" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="78" font-weight="700" letter-spacing="0.5">
+    <tspan fill="#F1F5F9">Technical Arts</tspan><tspan fill="#3B82F6"> MTY</tspan>
+  </text>
+  <text x="266" y="214" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="25" font-weight="500" letter-spacing="4" fill="#94A3B8">OPEN ENGINEERING &amp; RESEARCH</text>
+</svg>
