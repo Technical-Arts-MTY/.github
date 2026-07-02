@@ -40,7 +40,7 @@ For pur open-source phylosophy, anyone can contribute, build and study our **Dig
 
 **Philosophy.**
 
-- **Body-Centered Develop.** Every technical/math intensive documentation should have a clear explanation. Is suggested the 4D methodology ([video](https://www.youtube.com/watch?v=iXTr-tumegM&t=52s)). for explaining DT.
+- **Body-Centered Develop.** Every technical/math intensive documentation should have a clear explanation. Is suggested the [4D methodology](https://www.youtube.com/watch?v=iXTr-tumegM&t=52s)(https://www.youtube.com/watch?v=iXTr-tumegM&t=52s)). for explaining DT.
 - **Researcher mind is a must.** All DT repositories have a "resources" branch, with free-access books and material to understand well the principles of the model.
 - **Real Brains are strongly valued.** As the use of IA is no forbidden, it must be documented when some code block is written by it. Understanding a subject using IA is OK.
 - **Reproducibility first.** Results should be re-runnable; measurements state units, uncertainty, and method.
