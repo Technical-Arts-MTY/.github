@@ -31,25 +31,26 @@ actionable results from the sensing of their parameters.
 ## About
 
 **What we are.**
-Technical Arts MTY is a community of engineers, researchers, and students who
-build technology in the open. We treat software and hardware as a craft: our
-work is version-controlled, documented, reproducible, and released for anyone to
-study, use, and extend. Our through-line is **digital twins** — faithful,
-instrumented models of real systems — and the disciplines required to build
-them well.
+We are a community of students and reasearchers with the hiperfixation of replying dynamic systems 
+starting from its behaviour, modelling it mathematically, testing it physically and bringing its body to te 
+real world trough engineering, giving it brain with IA. Our systems have the objetive of making a real-world 
+phenomena ideal, predicting failures before they happen and getting actionable results by sensing electronically systems.
+For pur open-source phylosophy, anyone can contribute, build and study our **Digital Twins**.
+
 
 **Philosophy.**
 
-- **Build in the open.** Design decisions, code, and documentation are public by default.
+- **Body-Centered Develop.** Every technical/math intensive documentation should have a clear explanation. Is suggested the 4D methodology for explaining DT: [![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=iXTr-tumegM)
+- **Researcher mind is a must.** All DT repositories have a "resources" branch, with free-access books and material to understand well the principles of the model.
+- **Real Brains are strongly valued.** As the use of IA is no forbidden, it must be documented when some code block is written by it. Understanding a subject using IA is OK.
 - **Reproducibility first.** Results should be re-runnable; measurements state units, uncertainty, and method.
 - **Engineering rigor.** Clean interfaces, tested code, and maintainable systems over one-off demos.
-- **Documentation as a deliverable.** If it isn't documented, it isn't finished.
 - **Mentorship and continuity.** We grow maintainers and hand projects forward, not abandon them.
 
 **Objectives.**
 
-- Ship dependable open-source tools and reference implementations.
-- Publish reproducible engineering and research artifacts.
+- Build digital replicas of relevant real-world problem solving systems.
+- Publish reproducible research artifacts is a must.
 - Bridge academia and industry through applied, high-impact projects.
 - Cultivate a durable community of contributors and maintainers.
 
@@ -66,11 +67,9 @@ them well.
 | **Computer Vision** | Imaging, measurement, calibration, and scene understanding. |
 | **Infrastructure** | Reproducible environments, CI/CD, and tooling for research and development. |
 | **Hardware** | PCB design, prototyping, and instrumentation for the physical world. |
+| **Graphics Software Engineering** | Interactive 3D enviroments build with OpenGL/OpenUSD/Unity. |
 | **Open Source** | Libraries, tools, and documentation released and maintained for the community. |
 
-Digital twins sit at the intersection of these areas: physics-based modeling,
-embedded acquisition, data pipelines, and inference working together as one
-system.
 
 Each area has an open **Lead** position, currently recruiting. Additional
 coordination roles may be proposed once a Lead is in place.
@@ -168,10 +167,10 @@ The core team stewarding the collective and its projects.
 | Name | Role | GitHub |
 |---|---|---|
 | Aaron | President · Engineering | [@Aaron-Cuevas](https://github.com/Aaron-Cuevas) |
-| Alfred | Social Responsibility | @Alfredo-Luce |
+| Alfred | Social Responsibility | [@AlfredoLuce](https://github.com/AlfredoLuce)|
 | Joel | Treasury | `@—` |
-| German | Marketing | @GermanGit-Creator |
-| Edgar | Math Lead |  |
+| German | Marketing | [@GermanGit-Creator](https://github.com/GermanGit-Creator) |
+| Edgar | Math Lead | [@EdgarIFI](https://github.com/EdgarIFI) |
 
 > Vice President and Project Management roles are currently open.
 
@@ -180,7 +179,7 @@ The core team stewarding the collective and its projects.
 ## Contact
 
 - **GitHub Discussions** — [github.com/orgs/Technical-Arts-MTY/discussions](https://github.com/orgs/Technical-Arts-MTY/discussions)
-- **Email** — `contact@technicalarts.mty` <!-- replace with the official address -->
+- **Email** — `contact@technicalartsmty.org` >
 - **Communities** — see [Communities](#communities) above
 - **Location** — Monterrey, Nuevo León, México
 
