@@ -2,17 +2,17 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Technical Arts MTY — Open Engineering &amp; Research" width="760">
+  <img src="assets/banner-light.svg" alt="Technical Arts MTY — Open Source Replication of Real-World Systems" width="760">
 </picture>
 
 <br>
 
-**Open engineering and research for real-world systems.**
+**Open source replication of real-world systems**
 
-Technical Arts MTY is an open engineering and research collective based at
-Tecnológico de Monterrey. We design, build, and maintain open-source tools and
-systems across artificial intelligence, robotics, computer vision, embedded
-hardware, and digital twins.
+As the first Student Chapter of the digital twins field, Technical Arts is
+dedicated to the modeling of dynamic systems in order to replicate their
+behavior to predict failures, make corrections in real time, and obtain
+actionable results from the sensing of their parameters.
 
 <br>
 
@@ -21,7 +21,7 @@ hardware, and digital twins.
 <br>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-2563EB?style=flat-square)](#license)
-&nbsp;[![Code of Conduct](https://img.shields.io/badge/Code_of_Conduct-Contributor_Covenant-334155?style=flat-square)](CODE_OF_CONDUCT.md)
+&nbsp;[![Code of Conduct](https://img.shields.io/badge/Code_of_Conduct-Contributor_Covenant-334155?style=flat-square)](https://github.com/Technical-Arts-MTY/.github/blob/main/CODE_OF_CONDUCT.md)
 &nbsp;[![Discussions](https://img.shields.io/badge/GitHub-Discussions-334155?style=flat-square)](https://github.com/orgs/Technical-Arts-MTY/discussions)
 
 </div>
@@ -72,64 +72,60 @@ Digital twins sit at the intersection of these areas: physics-based modeling,
 embedded acquisition, data pipelines, and inference working together as one
 system.
 
+Each area has an open **Lead** position, currently recruiting. Additional
+coordination roles may be proposed once a Lead is in place.
+
 ---
 
 ## Open Projects
 
-A selection of the collective's work. Browse the full catalogue in the
-[organization repositories](https://github.com/orgs/Technical-Arts-MTY/repositories).
+### Native work lines
+
+Projects that originate and are developed within the collective.
 
 | Project | Description | |
 |---|---|---|
-| **Ground Twin** | A portable ecological instrument: a field digital twin of terrain that couples a RothC soil-carbon model with on-device inference on edge hardware. | [Repository →](#) |
 | **Michelson Interferometer Digital Twin** | A real-time digital twin of an optical interferometer, pairing a physics simulation with embedded acquisition for teaching and metrology. | [Repository →](https://github.com/Aaron-Cuevas/Michelson_Interferometer_Digital_Twin) |
-| **Optical Fiber Sensing** | Frequency-domain digital twin of distributed optical-fiber sensing systems. | [Repository →](#) |
-| **Lab &amp; Chapter Tooling** | Open command-line tools for reproducible research logs, project workflows, and documentation. | [Repository →](#) |
+| **Ground Twin** | A portable ecological instrument: a field digital twin of terrain that couples a RothC soil-carbon model with on-device inference on edge hardware. | [Repository →](#) |
 
-> Projects are released under permissive open-source licenses. See each
-> repository for its license, documentation, and contribution guide.
+### Affiliated work line
+
+**DT-HRES** is a separate, open-source work line coordinated by **Dr. Rasikh
+Tariq**. It is open to new contributors.
+
+[Repository →](https://github.com/Aaron-Cuevas/DT-HRES-S)
 
 ---
 
 ## Communities
 
-We coordinate in two WhatsApp communities. Each community groups focused
-channels so conversations stay organized and easy to follow.
+We coordinate in two WhatsApp communities.
 
 ### Vinculación
 
-Outreach and coordination with the wider ecosystem — announcements, progress,
-events, and relationships with academia and industry.
+For the chapter's members (*socios*) and experienced collaborators. It shares
+progress on projects and events of relevance, and gives access to the main
+projects and their contributors — a pool of talent specialized in Digital Twins
+and its interdisciplinary nature (programming, electronics, mechanics, and
+artificial intelligence). Members may share events, certifications, and
+hackathons that support joint development and learning in Digital Twins.
 
-| Channel | Purpose |
-|---|---|
-| **Anuncios** | Official announcements. |
-| **Avances relevantes** | Notable progress across projects. |
-| **Resultados** | Published results and outcomes. |
-| **Eventos** | Talks, workshops, and activities. |
-| **Academia** | Collaboration with academic groups and faculty. |
-| **Industria** | Engagement with companies and practitioners. |
-| **Exatec** | The Tecnológico de Monterrey alumni network. |
-| **Patrocinadores** | Sponsors and supporters. |
-
-<div align="right"><sub><a href="#">Request an invite →</a></sub></div>
+[**Join the Vinculación community →**](https://chat.whatsapp.com/H6sGz6mqA5gCXDvuw3RXfs?s=sw&p=i&mlu=2)
 
 ### Open Source
 
-Day-to-day development — where contributors build, review, and maintain the
-collective's software.
+For contributors building their portfolio through active training and the
+construction of dynamic-systems replication projects — industrial, natural, and
+scientific. Access the projects and contribution guides through the shared notes
+repository, from your terminal:
 
-| Channel / Resource | Purpose |
-|---|---|
-| **Colaboradores** | Contributor coordination and onboarding. |
-| **Desarrollo** | Active development discussion. |
-| **Reunión quincenal** | Biweekly development meeting. |
-| **Liga permanente de Zoom** | Standing Zoom link for meetings and pairing. |
-| **Documentación** | Documentation efforts and reviews. |
-| **Issues** | Triage and discussion of open issues. |
-| **Pull Requests** | Review and coordination of contributions. |
+```
+gh repo clone Technical-Arts-MTY/notas     # clone (first time only)
+cd notas
+python notes.py
+```
 
-<div align="right"><sub><a href="#">Request an invite →</a></sub></div>
+[**Join the Open Source community →**](https://chat.whatsapp.com/EiydHW1rvXtCdQaw9RsNTF?s=sw&p=i&mlu=2)
 
 ---
 
@@ -138,8 +134,8 @@ collective's software.
 Contributions are welcome, from first-time contributors to experienced
 maintainers.
 
-1. **Start here.** Read the [Contributing Guide](CONTRIBUTING.md) and the
-   [Code of Conduct](CODE_OF_CONDUCT.md).
+1. **Start here.** Read the [Contributing Guide](https://github.com/Technical-Arts-MTY/.github/blob/main/CONTRIBUTING.md) and the
+   [Code of Conduct](https://github.com/Technical-Arts-MTY/.github/blob/main/CODE_OF_CONDUCT.md).
 2. **Find an issue.** Look for [`good first issue`](https://github.com/orgs/Technical-Arts-MTY/repositories)
    labels in the repositories, or open one to propose your idea.
 3. **Set up.** Follow the development instructions in the project's `README`.
