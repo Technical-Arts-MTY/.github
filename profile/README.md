@@ -99,18 +99,18 @@ Tariq**. It is open to new contributors.
 
 ## Communities
 
-We coordinate in two WhatsApp communities.
+We coordinate in two WhatsApp communities (Spanish language)
 
-### Vinculación
+### Vinculation
 
-For the chapter's members (*socios*) and experienced collaborators. It shares
+For the chapter's members and experienced collaborators. It shares
 progress on projects and events of relevance, and gives access to the main
 projects and their contributors — a pool of talent specialized in Digital Twins
 and its interdisciplinary nature (programming, electronics, mechanics, and
 artificial intelligence). Members may share events, certifications, and
 hackathons that support joint development and learning in Digital Twins.
 
-[**Join the Vinculación community →**](https://chat.whatsapp.com/H6sGz6mqA5gCXDvuw3RXfs?s=sw&p=i&mlu=2)
+[**Join the Vinculation community →**](https://chat.whatsapp.com/H6sGz6mqA5gCXDvuw3RXfs?s=sw&p=i&mlu=2)
 
 ### Open Source
 
@@ -167,11 +167,11 @@ The core team stewarding the collective and its projects.
 
 | Name | Role | GitHub |
 |---|---|---|
-| Aaron Cuevas | President · Engineering | [@Aaron-Cuevas](https://github.com/Aaron-Cuevas) |
-| Alfred | Social Responsibility | `@—` |
+| Aaron | President · Engineering | [@Aaron-Cuevas](https://github.com/Aaron-Cuevas) |
+| Alfred | Social Responsibility | @Alfredo-Luce |
 | Joel | Treasury | `@—` |
-| German | Marketing | `@—` |
-| Edgar | Math Lead | `@—` |
+| German | Marketing | @GermanGit-Creator |
+| Edgar | Math Lead |  |
 
 > Vice President and Project Management roles are currently open.
 
