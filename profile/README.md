@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/white1.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/white2.svg">
   <img src="assets/banner-light.svg" alt="Technical Arts MTY — Open Source Replication of Real-World Systems" width="760">
 </picture>
 
