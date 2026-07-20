@@ -35,7 +35,7 @@ We are a community of students and reasearchers with the hiperfixation of replyi
 starting from its behaviour, modelling it mathematically, testing it physically and bringing its body to te 
 real world trough engineering, giving it brain with IA. Our systems have the objetive of making a real-world 
 phenomena ideal, predicting failures before they happen and getting actionable results by sensing electronically systems.
-For pur open-source phylosophy, anyone can contribute, build and study our **Digital Twins**.
+For our open-source phylosophy, anyone can contribute, build and study our **Digital Twins**.
 
 
 **Philosophy.**
